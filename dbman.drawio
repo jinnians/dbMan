@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-27T08:41:02.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="f_3b2BwbcH6U1xslFF15" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-27T08:41:44.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="sTe45iwC9HwonwAjT-n_" version="13.0.1" type="github">
   <diagram id="feBaYS_JQuyJnErrp1ZU" name="Page-1">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,8 +33,8 @@
         <mxCell id="eATjFRVcw-e4WQ8gJXjm-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="eATjFRVcw-e4WQ8gJXjm-6" target="eATjFRVcw-e4WQ8gJXjm-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eATjFRVcw-e4WQ8gJXjm-6" value="正式库管理员" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="110" width="30" height="60" as="geometry" />
+        <mxCell id="eATjFRVcw-e4WQ8gJXjm-6" value="正式库管理员" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="630" y="90" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eATjFRVcw-e4WQ8gJXjm-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="eATjFRVcw-e4WQ8gJXjm-11" target="eATjFRVcw-e4WQ8gJXjm-2">
           <mxGeometry relative="1" as="geometry" />
